@@ -34,7 +34,7 @@
     <tr>
       <td align="center"><a href="#"><strong>AdilOS</strong></a></td>
       <td align="center"><a href="#"><strong>Sneaker Bot</strong></a></td>
-      <td align="center"><a href="#"><strong>Satellite Econ</strong></a></td>
+      <td align="center"><a href="#"><strong>Credit Risk</strong></a></td>
     </tr>
     <tr>
       <td align="center">React/Node.js desktop OS in browser</td>
