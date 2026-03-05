@@ -63,7 +63,7 @@
 
   <!-- Footer -->
   <p>
-    <a href="https://linkedin.com/in/adil">
+    <a href="https://linkedin.com/in/">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
     </a>
     &nbsp;
