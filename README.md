@@ -33,8 +33,8 @@
 
 ### 📊 Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=darskkaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darskkaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=darskkaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=darskkaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/><br/>
 
