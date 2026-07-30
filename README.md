@@ -56,7 +56,18 @@
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=darskkaa&theme=tokyonight&hide_border=true" />
 
+### 📌 Pinned
+
+<a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing&theme=tokyonight&hide_border=true" />
+</a>
+
 ### 🏙️ Contribution Graph
+
+<a href="https://github.com/darskkaa">
+  <img src="https://ghchart.rshah.org/36BCF7/darskkaa" alt="darskkaa's GitHub contribution chart" />
+</a>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darskkaa/darskkaa/blob/dist/github-contribution-grid-snake-dark.svg">
