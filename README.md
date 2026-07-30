@@ -8,11 +8,30 @@
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,pytorch,docker,git&theme=dark" />
-</a>
+## Skill Set
 
-<br/><br/>
+<table><tr><td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js&perline=4" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js&perline=4" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,pytorch&perline=4" />
+</div>
+
+</td></tr></table>
 
 ### 🚀 Projects
 
@@ -30,6 +49,12 @@
 </table>
 
 <br/>
+
+### 📈 Activity
+
+<img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=darskkaa&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7&border_radius=10&hide_border=true" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=darskkaa&theme=tokyonight&hide_border=true" />
 
 ### 🏙️ Contribution Graph
 
