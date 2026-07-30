@@ -76,7 +76,7 @@
 ### 📌 Pinned
 
 <a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing&theme=tokyonight&hide_border=true" />
 </a>
 
 ### 🏙️ Contribution Graph
@@ -99,4 +99,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer"/>
 
 </div>
+
 
