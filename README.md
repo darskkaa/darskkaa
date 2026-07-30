@@ -22,6 +22,10 @@ CS Student @ FGCU. Building full-stack projects with Python, React, and ML.
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darskkaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
+## Contribution City
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=darskkaa&variant=3d" alt="3D Contribution Graph" />
+
 ## Get in Touch
 
 📧 [darkdill22@gmail.com](mailto:darkdill22@gmail.com)
