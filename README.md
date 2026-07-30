@@ -54,8 +54,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://darkacobot.netlify.app/login"><strong>AdilOS</strong></a></td>
-    <td align="center"><a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing"><strong>VOLA Engine</strong></a></td>
+    <td align="center"><a href="https://adil-os.duckdns.org/"><strong>AdilOS</strong></a></td>
+    <td align="center"><a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing-"><strong>VOLA Engine</strong></a></td>
     <td align="center"><a href="https://darkacobot.netlify.app/login"><strong>Sneaker Bot</strong></a></td>
   </tr>
   <tr>
@@ -75,8 +75,8 @@
 
 ### 📌 Pinned
 
-<a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing-&theme=tokyonight&hide_border=true" />
 </a>
 
 ### 🏙️ Contribution Graph
