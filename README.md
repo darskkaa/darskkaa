@@ -36,11 +36,7 @@
 
 <br/><br/>
 
-### 🏙️ Contribution City
-
-<img src="https://github-contribution-stats.vercel.app/api/?username=darskkaa&variant=3d" alt="3D Contribution Graph" />
-
-<br/>
+### 🏙️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darskkaa/darskkaa/blob/dist/github-contribution-grid-snake-dark.svg">
@@ -49,8 +45,6 @@
 </picture>
 
 <br/><br/>
-
-📧 [darkdill22@gmail.com](mailto:darkdill22@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=darskkaa&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 
