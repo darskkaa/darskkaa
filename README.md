@@ -10,28 +10,45 @@
 
 ## Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table style="background-color:black; border-radius:15px; overflow:hidden;">
+  <thead><tr><th colspan="4" align="center" style="color:white;">Frontend</th></tr></thead>
+  <tbody><tr>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br>Next.js</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br>Tailwind</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript</td>
+  </tr></tbody>
+</table>
 
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js&perline=4" />
-</div>
+<table style="background-color:black; border-radius:15px; overflow:hidden;">
+  <thead><tr><th colspan="4" align="center" style="color:white;">Languages</th></tr></thead>
+  <tbody><tr>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>Python</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br>C++</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=go" width="50" height="50"/><br>Go</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript</td>
+  </tr></tbody>
+</table>
 
-</td><td valign="top" width="33%">
+<table style="background-color:black; border-radius:15px; overflow:hidden;">
+  <thead><tr><th colspan="4" align="center" style="color:white;">Tools</th></tr></thead>
+  <tbody><tr>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>Git</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>GitHub</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>Docker</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>PyTorch</td>
+  </tr></tbody>
+</table>
 
-### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js&perline=4" />
-</div>
-
-</td><td valign="top" width="33%">
-
-### Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,pytorch&perline=4" />
-</div>
-
-</td></tr></table>
+<table style="background-color:black; border-radius:15px; overflow:hidden;">
+  <thead><tr><th colspan="4" align="center" style="color:white;">AI Tools</th></tr></thead>
+  <tbody><tr>
+    <td align="center" style="border:none;"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50"/><br>Claude</td>
+    <td align="center" style="border:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"/><br>ChatGPT</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>PyTorch</td>
+    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/><br>AWS Bedrock</td>
+  </tr></tbody>
+</table>
 
 ### 🚀 Projects
 
