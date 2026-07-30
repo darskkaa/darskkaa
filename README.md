@@ -94,7 +94,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=darskkaa&style=flat-square&color=36BCF7&label=Profile+Views&base=400" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=darskkaa&style=flat-square&color=36BCF7&label=Profile+Views&base=4000" alt="Profile Views" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer"/>
 
