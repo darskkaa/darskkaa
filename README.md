@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" alt="header"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Adil;CS+Student+%40+FGCU;Python+%C2%B7+Computer+Vision;Full+Stack+Developer" alt="Typing SVG" />
 </a>
@@ -47,5 +49,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=darskkaa&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer"/>
 
 </div>
