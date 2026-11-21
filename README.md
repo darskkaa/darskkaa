@@ -52,8 +52,8 @@ SSH honeypot on a Raspberry Pi that replays 9,994 recorded command outputs and f
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darskkaa/darskkaa/master/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/darskkaa/darskkaa/master/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:155e75,100:0d1117&height=100&section=footer" alt=""/>
