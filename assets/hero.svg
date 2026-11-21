@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="darskkaa: computer vision, edge AI, robotics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b2530"/>
+    </linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#36BCF7" opacity="0.12"/>
+    </pattern>
+    <clipPath id="c1"><rect x="20" y="132" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="0.4s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="20" y="157" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="1.2s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="20" y="182" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="2.3s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="20" y="207" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="3.1s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="20" y="232" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="3.8s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="20" y="257" height="26" width="0"><animate attributeName="width" from="0" to="620" begin="4.5s" dur="0.8s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="298" rx="14" fill="url(#bg)" stroke="#36BCF7" stroke-opacity="0.35"/>
+
+  <circle cx="26" cy="24" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="24" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="24" r="6" fill="#28c840"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.6s" fill="freeze"/>
+    <text x="28" y="82" font-size="40" font-weight="700" fill="#e6edf3">darskkaa</text>
+    <text x="30" y="110" font-size="16" fill="#8b949e">computer vision · edge AI · robotics</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" style="white-space:pre">
+    <text x="28" y="150" clip-path="url(#c1)"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> seeker --find "bottle"</tspan></text>
+    <text x="28" y="175" clip-path="url(#c2)" fill="#8b949e"><tspan fill="#36BCF7">  ✓ found</tspan> · YOLO11n · 0.35 s/frame on a Qualcomm chip · offline</text>
+    <text x="28" y="200" clip-path="url(#c3)"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> gh pr list -R scikit-image/scikit-image --author darskkaa</tspan></text>
+    <text x="28" y="225" clip-path="url(#c4)" fill="#8b949e"><tspan fill="#36BCF7">  ✓ #8424 merged</tspan>   <tspan fill="#36BCF7">✓ #8426 merged</tspan></text>
+    <text x="28" y="250" clip-path="url(#c5)"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> cat comma.ai/leaderboard | grep darskkaa</tspan></text>
+    <text x="28" y="275" clip-path="url(#c6)" fill="#8b949e">  darskkaa_rdo  <tspan fill="#36BCF7">0.126</tspan>  (#1 when submitted, now #3 of 77)</text>
+    <rect x="28" y="281" width="9" height="3" fill="#36BCF7" opacity="0">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="660" y="40" width="272" height="232" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="660" y="40" width="272" height="232" rx="10" fill="url(#dots)"/>
+
+  <g stroke="#36BCF7" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M672 64 v-12 h12"/>
+    <path d="M920 64 v-12 h-12"/>
+    <path d="M672 248 v12 h12"/>
+    <path d="M920 248 v12 h-12"/>
+  </g>
+
+  <g fill="#1f3b47">
+    <rect x="783" y="100" width="24" height="12" rx="3"/>
+    <rect x="785" y="110" width="20" height="32" rx="4"/>
+    <rect x="770" y="138" width="50" height="104" rx="12"/>
+  </g>
+
+  <rect x="755" y="92" width="80" height="160" fill="none" stroke="#36BCF7" stroke-width="2" stroke-dasharray="480" stroke-dashoffset="480">
+    <animate attributeName="stroke-dashoffset" from="480" to="0" begin="1.4s" dur="1s" fill="freeze"/>
+  </rect>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.3s" fill="freeze"/>
+    <rect x="755" y="72" width="58" height="20" fill="#36BCF7"/>
+    <text x="762" y="86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#0d1117">bottle</text>
+  </g>
+
+  <line x1="672" x2="920" y1="56" y2="56" stroke="#36BCF7" stroke-width="1.5" opacity="0.45">
+    <animate attributeName="y1" values="56;256;56" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="56;256;56" dur="3.2s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="796" y="266" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">on-device · offline</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:155e75,100:36BCF7&height=170&section=header&text=darskkaa&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Computer%20vision%20%C2%B7%20Edge%20AI%20%C2%B7%20Robotics&descSize=18&descAlignY=56&animation=fadeIn" alt="darskkaa: computer vision, edge AI, robotics"/>
+<img width="100%" src="https://raw.githubusercontent.com/darskkaa/darskkaa/master/assets/hero.svg" alt="darskkaa: computer vision, edge AI, robotics"/>
 
 <a href="https://github.com/scikit-image/scikit-image/pulls?q=is%3Apr+author%3Adarskkaa+is%3Amerged"><img src="https://img.shields.io/badge/scikit--image-2_PRs_merged-36BCF7?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="scikit-image: 2 PRs merged"/></a>
 <a href="https://github.com/commaai/comma_video_compression_challenge"><img src="https://img.shields.io/badge/comma.ai_challenge-%231_at_0.126-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="comma.ai challenge: #1 at 0.126"/></a>
@@ -42,6 +42,13 @@ SSH honeypot on a Raspberry Pi that replays 9,994 recorded command outputs and f
 - **[scikit-image](https://github.com/scikit-image/scikit-image/pulls?q=is%3Apr+author%3Adarskkaa+is%3Amerged)**: 2 merged PRs ([#8424](https://github.com/scikit-image/scikit-image/pull/8424), [#8426](https://github.com/scikit-image/scikit-image/pull/8426)) that let its Cython kernels accept read-only NumPy arrays. Closed 3 issues.
 - **[comma.ai video compression challenge](https://github.com/commaai/comma_video_compression_challenge)**: took #1 on the leaderboard with a score of 0.126 ([PR #151](https://github.com/commaai/comma_video_compression_challenge/pull/151)). Currently #3 of 77.
 
+**Latest merged PRs** <sub>(updated daily by a GitHub Action)</sub>
+
+<!-- PRS:START -->
+- `2026-11-21` **[scikit-image/scikit-image#8426](https://github.com/scikit-image/scikit-image/pull/8426)**: Accept read-only input in more Cython kernels
+- `2026-11-21` **[scikit-image/scikit-image#8424](https://github.com/scikit-image/scikit-image/pull/8424)**: Accept read-only input in corner_fast, corner_moravec and corner_orientations
+<!-- PRS:END -->
+
 ## Stack
 
 <picture>
@@ -55,5 +62,3 @@ SSH honeypot on a Raspberry Pi that replays 9,994 recorded command outputs and f
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darskkaa/darskkaa/master/profile-3d-contrib/profile-night-rainbow.svg">
   <img src="https://raw.githubusercontent.com/darskkaa/darskkaa/master/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:155e75,100:0d1117&height=100&section=footer" alt=""/>
