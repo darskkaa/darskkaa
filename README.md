@@ -3,101 +3,44 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Adil;CS+Student+%40+FGCU;Python+%C2%B7+Computer+Vision;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+Adil;CS+%40+FGCU+%C2%B7+Computer+Vision+%C2%B7+Edge+AI;First+author%2C+WACV+2027" alt="Hi, I'm Adil" />
 </a>
 
-<br/>
-
-## Skill Set
-
-<table style="background-color:black; border-radius:15px; overflow:hidden;">
-  <thead><tr><th colspan="4" align="center" style="color:white;">Frontend</th></tr></thead>
-  <tbody><tr>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br>Next.js</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br>Tailwind</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript</td>
-  </tr></tbody>
-</table>
-
-<table style="background-color:black; border-radius:15px; overflow:hidden;">
-  <thead><tr><th colspan="4" align="center" style="color:white;">Languages</th></tr></thead>
-  <tbody><tr>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>Python</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br>C++</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=go" width="50" height="50"/><br>Go</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript</td>
-  </tr></tbody>
-</table>
-
-<table style="background-color:black; border-radius:15px; overflow:hidden;">
-  <thead><tr><th colspan="4" align="center" style="color:white;">Tools</th></tr></thead>
-  <tbody><tr>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>Git</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>GitHub</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>Docker</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>PyTorch</td>
-  </tr></tbody>
-</table>
-
-<table style="background-color:black; border-radius:15px; overflow:hidden;">
-  <thead><tr><th colspan="4" align="center" style="color:white;">AI Tools</th></tr></thead>
-  <tbody><tr>
-    <td align="center" style="border:none;"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50"/><br>Claude</td>
-    <td align="center" style="border:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"/><br>ChatGPT</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>PyTorch</td>
-    <td align="center" style="border:none;"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/><br>AWS Bedrock</td>
-  </tr></tbody>
-</table>
-
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td align="center"><a href="https://adil-os.duckdns.org/"><strong>AdilOS</strong></a></td>
-    <td align="center"><a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing-"><strong>VOLA Engine</strong></a></td>
-    <td align="center"><a href="https://darkacobot.netlify.app/login"><strong>Sneaker Bot</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center">React/Node.js desktop OS in browser</td>
-    <td align="center">ML/NLP options volatility prediction</td>
-    <td align="center">Electron/TypeScript automation</td>
-  </tr>
-</table>
-
-<br/>
-
-### 📈 Activity
-
-<img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=darskkaa&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7&border_radius=10&hide_border=true" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=darskkaa&theme=tokyonight&hide_border=true" />
-
-### 📌 Pinned
-
-<a href="https://github.com/darskkaa/predicting-options-volatility-by-applying-natural-language-processing-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darskkaa&repo=predicting-options-volatility-by-applying-natural-language-processing-&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🏙️ Contribution Graph
-
-<a href="https://github.com/darskkaa">
-  <img src="https://ghchart.rshah.org/36BCF7/darskkaa" alt="darskkaa's GitHub contribution chart" />
-</a>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darskkaa/darskkaa/blob/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/darskkaa/darskkaa/blob/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/darskkaa/darskkaa/blob/dist/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=darskkaa&style=flat-square&color=36BCF7&label=Profile+Views&base=4323" alt="Profile Views" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer"/>
+[zaben.pages.dev](https://zaben.pages.dev) · [LinkedIn](https://linkedin.com/in/adilzaben)
 
 </div>
 
+I'm a CS student at Florida Gulf Coast University (graduating December 2027). I work on computer vision, and on getting models to run on small, cheap hardware.
 
+## Now
+
+- **Research intern, WiSER at FGCU.** Training and benchmarking YOLOv8 through YOLOv11 on 1M+ thermal frames.
+- **2026 IEEE Computer Society Career Catalyst Scholar.** Built [Seeker](https://github.com/darskkaa/seeker) with my team and demoed it at Qualcomm HQ in San Diego.
+
+## Papers
+
+- **Tri-Axial State-Space Polyp Segmentation with Zero-Initialized Boundary Calibration.** First author, WACV 2027 (Applications Track, accepted). [Code](https://github.com/darskkaa/SpectraMambaNet)
+- **Seasonally Robust Thermal Object Detection: A Modality-Aligned Approach.** First author, ICIICE 2026. [IEEE Xplore](https://ieeexplore.ieee.org/document/11565324) · [Code](https://github.com/darskkaa/RTIODm)
+
+## Open source
+
+- **[scikit-image](https://github.com/scikit-image/scikit-image/pulls?q=is%3Apr+author%3Adarskkaa+is%3Amerged)**: 2 merged PRs ([#8424](https://github.com/scikit-image/scikit-image/pull/8424), [#8426](https://github.com/scikit-image/scikit-image/pull/8426)) that let its Cython kernels accept read-only NumPy arrays. Closed 3 issues.
+- **[comma.ai video compression challenge](https://github.com/commaai/comma_video_compression_challenge)**: took #1 on the leaderboard with a score of 0.126 ([PR #151](https://github.com/commaai/comma_video_compression_challenge/pull/151)). Currently #3 of 77.
+
+## Projects
+
+- **[Seeker](https://github.com/darskkaa/seeker)**: a fully offline robot dog that finds a target named by voice and walks to it. YOLO11n on ONNX Runtime runs at 0.35 s/frame on the Arduino UNO Q's Qualcomm chip.
+- **[Internship Alert Bot](https://github.com/darskkaa/internship-alert-bot)**: polls 1,400+ job boards every 10 minutes and posts new internships to Discord. 7,800+ runs at 99.8% success.
+- **[Project SCALPEL](https://www.fgcu.edu/eng/wce-news/first-place-wins)**: an SSH honeypot on a Raspberry Pi that replays 9,994 recorded command outputs and falls back to an LLM when unsure. 1st place at the eMerge AI Hackathon (USF and U.S. Army DEVCOM ARL).
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,rust,ts,bash,pytorch,docker,linux,aws,raspberrypi,arduino,git&perline=15" alt="Python, C, C++, Go, Java, Rust, TypeScript, Bash, PyTorch, Docker, Linux, AWS, Raspberry Pi, Arduino, Git" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darskkaa/darskkaa/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darskkaa/darskkaa/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/darskkaa/darskkaa/dist/github-contribution-grid-snake.svg">
+</picture>
